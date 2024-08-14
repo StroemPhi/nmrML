@@ -74,6 +74,7 @@ The nmr ontology is developed by the ontology working group (http://msi-ontology
         <dc:format xml:lang="en">Rather flat CV. Taxonomic backbone with few relations used. No OWL DL complexity such as cardinalities, blank nodes, nested class definitions.</dc:format>
         <owl:imports rdf:resource="http://msi-ontology.sourceforge.net/ontology/NMR.owl"/>
         <owl:imports rdf:resource="https://biotop.googlecode.com/svn/trunk/btl2.owl"/>
+        <owl:versionIRI rdf:resource="http://nmrml.org/cv/v1.1.0/nmrCV.owl"/>
     </owl:Ontology>
     
 
